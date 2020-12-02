@@ -1,0 +1,15 @@
+000webhost
+username: rockeymental988@gmail.com	
+password: star87star
+
+website: tatkalreservationsystem.000webhostapp.com
+password: deadmin123
+
+
+database name: design_eng
+db username: root
+db password: n8F$6yJI@orqy/3X
+
+
+
+
